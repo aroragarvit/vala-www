@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vala.dev/sitemap.xml
